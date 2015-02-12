@@ -1,0 +1,223 @@
+#top #mainnav ul {
+	text-align: center;
+	list-style-type: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	color: rgba(166,123,163,1.00);
+	z-index: 1;
+}
+#top #mainnav ul a {
+	text-decoration: none;
+	text-align: center;
+	list-style-type: none;
+	width: 16.6666%;
+	display: block;
+	background-color: rgba(166,123,163,1.00);
+	color: rgba(249,249,249,1.00);
+	margin-top: 0px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	float: left;
+	z-index: 30;
+}
+#small p a {
+	width: 94px;
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	color: rgba(129,46,128,1.00);
+	float: none;
+}
+body aside {
+	clear: left;
+	float: left;
+	margin-left: 106px;
+}
+
+#top #smallnavdiv {
+	float: right;
+	top: 0%;
+	position: absolute;
+	right: 1.6%;
+	font-size: 17px;
+}
+#Ad1 img {
+}
+
+#sidemenu a {
+	color: rgba(53,109,158,1.00);
+	margin-top: 0px;
+	-webkit-box-shadow: 0px 1.5px 0px 0px;
+	box-shadow: 0px 1.5px 0px 0px;
+	display: block;
+	text-decoration: none;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#sidemenu ul {
+	list-style-type: none;
+	margin-top: 30px;
+	padding-right: 28px;
+	padding-bottom: 24px;
+	padding-top: 8px;
+	color: rgba(28,14,124,0.68);
+	text-decoration: none;
+	padding-left: 11px;
+	position: absolute;
+	left: 3%;
+	background-color: rgba(252,245,211,1.00);
+	z-index: 0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#sidemenu nav ul li {
+	padding-top: 9px;
+	list-style-type: none;
+}
+.column {
+	color: rgba(136,48,123,1.00);
+	text-align: center;
+	width: 25%;
+	float: left;
+}
+.column a {
+	text-decoration: none;
+	color: rgba(31,7,29,1.00);
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+}
+.column ul {
+	list-style-type: none;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	color: rgba(30,6,29,1.00);
+}
+
+#footer #copyright {
+	clear: left;
+	text-align: center;
+	background-color: rgba(166,123,163,1.00);
+	bottom: 5%;
+	position: static;
+}
+#nav li ul a {
+	font-weight: 200;
+	border-left-color: rgba(244,237,237,1.00);
+	border-right-color: rgba(244,237,237,1.00);
+	text-shadow: 0px 0px;
+	-webkit-box-shadow: 0px 0px 2px 0px rgba(233,212,247,1.00);
+	box-shadow: 0px 0px 2px 0px rgba(233,212,247,1.00);
+	height: 15px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
+	z-index: 1;
+}
+#top #mainnav a:hover {
+	background-color: rgba(162,66,185,1.00);
+	position: static;
+	z-index: 2;
+}
+#mainnav #prescriptionLi:hover ul {
+	position: absolute;
+	top: 31px;
+	left: 66.67%;
+	z-index: 1;
+}
+#mainnav #pharmacyLi:hover ul {
+	left: 16.7%;
+	position: absolute;
+	top: 31px;
+	-webkit-box-shadow: 0px 0px 0px;
+	box-shadow: 0px 0px 0px;
+	z-index: 1;
+}
+#mainnav #shopLi:hover ul {
+	left: 33.333%;
+	top: 31px;
+	z-index: 1;
+}
+#nav li ul li {
+	float: none;
+	clear: left;
+}
+
+#nav li ul {
+	line-height: 12px;
+	text-align: center;
+	left: -1000%;
+	width: 100%;
+	position: absolute;
+	list-style-type: none;
+	margin-top: 0px;
+	top: 210px;
+} 
+
+#top #searchbox {
+	position: absolute;
+	top: 7%;
+	right: 1%;
+	padding-top: 8px;
+	margin-top: 0px;
+	border-radius: 11px;
+	cursor: pointer;
+	padding-bottom: 8px;
+	width: 354px;
+	padding-right: 6px;
+	padding-left: 6px;
+	text-align: center;
+}
+#top #searchbox #Search {
+	border-radius: 8px;
+	width: 259px;
+	height: 25px;
+	font-size: 15px;
+}
+#submit {
+	width: 83px;
+	height: 30px;
+	border-radius: 8px;
+	background-color: rgba(120,103,235,1.00);
+	color: rgba(255,255,255,1.00);
+	font-weight: 400;
+	font-size: 18px;
+	-webkit-box-shadow: inset 0px 0px 0px 0px;
+	box-shadow: inset 0px 0px 0px 0px;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+#top #mainnav {
+	position: relative;
+}
+#footer #hr {
+	width: 89%;
+	top: 0px;
+	position: absolute;
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#footer {
+	position: relative;
+}
+.aaa {
+	border-left: 28px solid rgba(228,250,244,1.00);
+	margin-left: 171px;
+	padding-left: 45px;
+	margin-top: 53px;
+	padding-top: 10px;
+}
